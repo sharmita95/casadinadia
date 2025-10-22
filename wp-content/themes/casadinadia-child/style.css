@@ -1,0 +1,14 @@
+/*
+Theme Name: Rehomes Child
+Theme URI: http://demo2.wpopal.com/rehomes/
+Description: Child theme for Rehomes WordPress theme.
+Author: Opal Team
+Author URI: https://www.wpopal.com/
+Template: rehomes
+Version: 1.0.0
+Text Domain: rehomes-child
+*/
+#content.site-content{
+    max-width: 100%;
+    padding: 0;
+}
